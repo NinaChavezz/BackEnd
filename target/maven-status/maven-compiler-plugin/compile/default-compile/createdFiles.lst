@@ -8,6 +8,7 @@ com\portfolio\acc\Dto\dtoPersona.class
 com\portfolio\acc\Entity\Educacion.class
 com\portfolio\acc\Service\Seducacion.class
 com\portfolio\acc\Controller\CExperiencia.class
+com\portfolio\acc\WebConfig.class
 com\portfolio\acc\Security\Repository\iUsuarioRepository.class
 com\portfolio\acc\Service\Shys.class
 com\portfolio\acc\Security\Repository\iRolRepository.class
